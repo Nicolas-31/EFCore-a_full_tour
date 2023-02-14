@@ -1,0 +1,12 @@
+C:\Users\nicolas\Desktop\Github\EFCore-a_full_tour\EntityFrameworkCore\EntityFrameworkCore.Domain\bin\Debug\net7.0\EntityFrameworkCore.Domain.deps.json
+C:\Users\nicolas\Desktop\Github\EFCore-a_full_tour\EntityFrameworkCore\EntityFrameworkCore.Domain\bin\Debug\net7.0\EntityFrameworkCore.Domain.dll
+C:\Users\nicolas\Desktop\Github\EFCore-a_full_tour\EntityFrameworkCore\EntityFrameworkCore.Domain\bin\Debug\net7.0\EntityFrameworkCore.Domain.pdb
+C:\Users\nicolas\Desktop\Github\EFCore-a_full_tour\EntityFrameworkCore\EntityFrameworkCore.Domain\obj\Debug\net7.0\EntityFrameworkCore.Domain.csproj.AssemblyReference.cache
+C:\Users\nicolas\Desktop\Github\EFCore-a_full_tour\EntityFrameworkCore\EntityFrameworkCore.Domain\obj\Debug\net7.0\EntityFrameworkCore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicolas\Desktop\Github\EFCore-a_full_tour\EntityFrameworkCore\EntityFrameworkCore.Domain\obj\Debug\net7.0\EntityFrameworkCore.Domain.AssemblyInfoInputs.cache
+C:\Users\nicolas\Desktop\Github\EFCore-a_full_tour\EntityFrameworkCore\EntityFrameworkCore.Domain\obj\Debug\net7.0\EntityFrameworkCore.Domain.AssemblyInfo.cs
+C:\Users\nicolas\Desktop\Github\EFCore-a_full_tour\EntityFrameworkCore\EntityFrameworkCore.Domain\obj\Debug\net7.0\EntityFrameworkCore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\nicolas\Desktop\Github\EFCore-a_full_tour\EntityFrameworkCore\EntityFrameworkCore.Domain\obj\Debug\net7.0\EntityFrameworkCore.Domain.dll
+C:\Users\nicolas\Desktop\Github\EFCore-a_full_tour\EntityFrameworkCore\EntityFrameworkCore.Domain\obj\Debug\net7.0\refint\EntityFrameworkCore.Domain.dll
+C:\Users\nicolas\Desktop\Github\EFCore-a_full_tour\EntityFrameworkCore\EntityFrameworkCore.Domain\obj\Debug\net7.0\EntityFrameworkCore.Domain.pdb
+C:\Users\nicolas\Desktop\Github\EFCore-a_full_tour\EntityFrameworkCore\EntityFrameworkCore.Domain\obj\Debug\net7.0\ref\EntityFrameworkCore.Domain.dll

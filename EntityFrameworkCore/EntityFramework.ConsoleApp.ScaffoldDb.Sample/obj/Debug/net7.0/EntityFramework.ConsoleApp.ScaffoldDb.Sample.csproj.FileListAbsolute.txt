@@ -1,0 +1,14 @@
+C:\Users\nicolas\Desktop\Github\EFCore-a_full_tour\EntityFrameworkCore\EntityFramework.ConsoleApp.ScaffoldDb.Sample\bin\Debug\net7.0\EntityFramework.ConsoleApp.ScaffoldDb.Sample.deps.json
+C:\Users\nicolas\Desktop\Github\EFCore-a_full_tour\EntityFrameworkCore\EntityFramework.ConsoleApp.ScaffoldDb.Sample\bin\Debug\net7.0\EntityFramework.ConsoleApp.ScaffoldDb.Sample.runtimeconfig.json
+C:\Users\nicolas\Desktop\Github\EFCore-a_full_tour\EntityFrameworkCore\EntityFramework.ConsoleApp.ScaffoldDb.Sample\bin\Debug\net7.0\EntityFramework.ConsoleApp.ScaffoldDb.Sample.dll
+C:\Users\nicolas\Desktop\Github\EFCore-a_full_tour\EntityFrameworkCore\EntityFramework.ConsoleApp.ScaffoldDb.Sample\bin\Debug\net7.0\EntityFramework.ConsoleApp.ScaffoldDb.Sample.pdb
+C:\Users\nicolas\Desktop\Github\EFCore-a_full_tour\EntityFrameworkCore\EntityFramework.ConsoleApp.ScaffoldDb.Sample\obj\Debug\net7.0\EntityFramework.ConsoleApp.ScaffoldDb.Sample.csproj.AssemblyReference.cache
+C:\Users\nicolas\Desktop\Github\EFCore-a_full_tour\EntityFrameworkCore\EntityFramework.ConsoleApp.ScaffoldDb.Sample\obj\Debug\net7.0\EntityFramework.ConsoleApp.ScaffoldDb.Sample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicolas\Desktop\Github\EFCore-a_full_tour\EntityFrameworkCore\EntityFramework.ConsoleApp.ScaffoldDb.Sample\obj\Debug\net7.0\EntityFramework.ConsoleApp.ScaffoldDb.Sample.AssemblyInfoInputs.cache
+C:\Users\nicolas\Desktop\Github\EFCore-a_full_tour\EntityFrameworkCore\EntityFramework.ConsoleApp.ScaffoldDb.Sample\obj\Debug\net7.0\EntityFramework.ConsoleApp.ScaffoldDb.Sample.AssemblyInfo.cs
+C:\Users\nicolas\Desktop\Github\EFCore-a_full_tour\EntityFrameworkCore\EntityFramework.ConsoleApp.ScaffoldDb.Sample\obj\Debug\net7.0\EntityFramework.ConsoleApp.ScaffoldDb.Sample.csproj.CoreCompileInputs.cache
+C:\Users\nicolas\Desktop\Github\EFCore-a_full_tour\EntityFrameworkCore\EntityFramework.ConsoleApp.ScaffoldDb.Sample\obj\Debug\net7.0\EntityFramework.ConsoleApp.ScaffoldDb.Sample.dll
+C:\Users\nicolas\Desktop\Github\EFCore-a_full_tour\EntityFrameworkCore\EntityFramework.ConsoleApp.ScaffoldDb.Sample\obj\Debug\net7.0\refint\EntityFramework.ConsoleApp.ScaffoldDb.Sample.dll
+C:\Users\nicolas\Desktop\Github\EFCore-a_full_tour\EntityFrameworkCore\EntityFramework.ConsoleApp.ScaffoldDb.Sample\obj\Debug\net7.0\EntityFramework.ConsoleApp.ScaffoldDb.Sample.pdb
+C:\Users\nicolas\Desktop\Github\EFCore-a_full_tour\EntityFrameworkCore\EntityFramework.ConsoleApp.ScaffoldDb.Sample\obj\Debug\net7.0\EntityFramework.ConsoleApp.ScaffoldDb.Sample.genruntimeconfig.cache
+C:\Users\nicolas\Desktop\Github\EFCore-a_full_tour\EntityFrameworkCore\EntityFramework.ConsoleApp.ScaffoldDb.Sample\obj\Debug\net7.0\ref\EntityFramework.ConsoleApp.ScaffoldDb.Sample.dll

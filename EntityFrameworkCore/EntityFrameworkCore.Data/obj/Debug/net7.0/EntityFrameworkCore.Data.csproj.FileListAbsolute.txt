@@ -1,0 +1,17 @@
+C:\Users\nicolas\Desktop\Github\EFCore-a_full_tour\EntityFrameworkCore\EntityFrameworkCore.Data\bin\Debug\net7.0\EntityFrameworkCore.Data.deps.json
+C:\Users\nicolas\Desktop\Github\EFCore-a_full_tour\EntityFrameworkCore\EntityFrameworkCore.Data\bin\Debug\net7.0\EntityFrameworkCore.Data.runtimeconfig.json
+C:\Users\nicolas\Desktop\Github\EFCore-a_full_tour\EntityFrameworkCore\EntityFrameworkCore.Data\bin\Debug\net7.0\EntityFrameworkCore.Data.dll
+C:\Users\nicolas\Desktop\Github\EFCore-a_full_tour\EntityFrameworkCore\EntityFrameworkCore.Data\bin\Debug\net7.0\EntityFrameworkCore.Data.pdb
+C:\Users\nicolas\Desktop\Github\EFCore-a_full_tour\EntityFrameworkCore\EntityFrameworkCore.Data\bin\Debug\net7.0\EntityFrameworkCore.Domain.dll
+C:\Users\nicolas\Desktop\Github\EFCore-a_full_tour\EntityFrameworkCore\EntityFrameworkCore.Data\bin\Debug\net7.0\EntityFrameworkCore.Domain.pdb
+C:\Users\nicolas\Desktop\Github\EFCore-a_full_tour\EntityFrameworkCore\EntityFrameworkCore.Data\obj\Debug\net7.0\EntityFrameworkCore.Data.csproj.AssemblyReference.cache
+C:\Users\nicolas\Desktop\Github\EFCore-a_full_tour\EntityFrameworkCore\EntityFrameworkCore.Data\obj\Debug\net7.0\EntityFrameworkCore.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicolas\Desktop\Github\EFCore-a_full_tour\EntityFrameworkCore\EntityFrameworkCore.Data\obj\Debug\net7.0\EntityFrameworkCore.Data.AssemblyInfoInputs.cache
+C:\Users\nicolas\Desktop\Github\EFCore-a_full_tour\EntityFrameworkCore\EntityFrameworkCore.Data\obj\Debug\net7.0\EntityFrameworkCore.Data.AssemblyInfo.cs
+C:\Users\nicolas\Desktop\Github\EFCore-a_full_tour\EntityFrameworkCore\EntityFrameworkCore.Data\obj\Debug\net7.0\EntityFrameworkCore.Data.csproj.CoreCompileInputs.cache
+C:\Users\nicolas\Desktop\Github\EFCore-a_full_tour\EntityFrameworkCore\EntityFrameworkCore.Data\obj\Debug\net7.0\EntityFrameworkCore.Data.csproj.CopyComplete
+C:\Users\nicolas\Desktop\Github\EFCore-a_full_tour\EntityFrameworkCore\EntityFrameworkCore.Data\obj\Debug\net7.0\EntityFrameworkCore.Data.dll
+C:\Users\nicolas\Desktop\Github\EFCore-a_full_tour\EntityFrameworkCore\EntityFrameworkCore.Data\obj\Debug\net7.0\refint\EntityFrameworkCore.Data.dll
+C:\Users\nicolas\Desktop\Github\EFCore-a_full_tour\EntityFrameworkCore\EntityFrameworkCore.Data\obj\Debug\net7.0\EntityFrameworkCore.Data.pdb
+C:\Users\nicolas\Desktop\Github\EFCore-a_full_tour\EntityFrameworkCore\EntityFrameworkCore.Data\obj\Debug\net7.0\EntityFrameworkCore.Data.genruntimeconfig.cache
+C:\Users\nicolas\Desktop\Github\EFCore-a_full_tour\EntityFrameworkCore\EntityFrameworkCore.Data\obj\Debug\net7.0\ref\EntityFrameworkCore.Data.dll
